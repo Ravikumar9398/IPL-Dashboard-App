@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.team-details-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 45px;
+}
+
+.banner {
+  margin-top: 22px;
+}
+
+.banner-title {
+  position: relative;
+  left: 92px;
+}
+.match-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #da237b, #13418b);
+}
+.KKR {
+  background-image: linear-gradient(#5755a7, #d91c1f);
+}
+.CSK {
+  background-image: linear-gradient(#f7db00, #ffffff33);
+}
+.RR {
+  background-image: linear-gradient(to bottom, #da237b, #13418b);
+}
+.MI {
+  background-image: linear-gradient(#13418b, #f26d22);
+}
+.SH {
+  background-image: linear-gradient(#f26d22, #13418b);
+}
+.DC {
+  background-image: linear-gradient(#0f172a, #d91c1f);
+}

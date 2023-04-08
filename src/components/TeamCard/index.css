@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  background-color: #ffffff33;
+  width: 455px;
+  display: flex;
+  margin: 10px;
+  flex-direction: row;
+  align-items: center;
+  padding: 22px;
+  border-radius: 12px;
+}
+
+.image {
+  width: 135px;
+  height: 155px;
+  padding-right: 22px;
+}
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 32px;
+}

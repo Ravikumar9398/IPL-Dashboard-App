@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.team-card-bg {
+  background-color: #1e293b;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 85%;
+  margin: 12px;
+  padding: 45px;
+}
+.team-logo {
+  width: 165px;
+  height: 145px;
+}
+.names {
+  color: #ffffff;
+  font-family: 'Bee Serif';
+}
+
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
+}
+.banner-title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
